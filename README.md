@@ -1,4 +1,5 @@
-📧 [gurpreetdhamu8586@gmail.com](mailto:gurpreetdhamu8586@gmail.com)
+## 📧 Email:
+[gurpreetdhamu8586@gmail.com](mailto:gurpreetdhamu8586@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preet_dhamu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preet-dhamu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Gurpreet-Dhamu) 
